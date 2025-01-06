@@ -69,3 +69,5 @@ The course emphasizes the importance of values, integrity, and anti-corruption e
     </tr>
   </tbody>
 </table>
+
+This course on integrity and anti-corruption has offered a comprehensive understanding of values, ethics, and the impact of corruption on society. Through exploring legal frameworks and the role of institutions in preventing corruption, the course has reinforced the importance of integrity in personal and professional life. Just, I would suggest that the lecture's location would be inside the computing faculty.
